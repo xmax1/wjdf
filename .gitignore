@@ -18,12 +18,13 @@ papers/
 *.jpeg
 *.err
 *.out
+events.out*
 
 # local directories
 data/*/
 logs/
 wandb/
-
+plugins/
 
 # machine utilities
 *powershell*
